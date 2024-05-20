@@ -1,0 +1,72 @@
+.Testimonials {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.Testimonials #container h2 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.Testimonials #container .row .image-container {
+  background: rgba(231, 83, 23, 0.4);
+  overflow: hidden;
+}
+.Testimonials #container .row .image-container h4 {
+  position: absolute;
+  font-size: 15px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  top: 500px;
+  margin-left: 100px;
+}
+.Testimonials #container .row .image-container p {
+  font-size: 15px;
+  width: 20%;
+  top: 600px;
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 150px;
+  color: rgb(0, 0, 0);
+}
+.Testimonials #container .row hr {
+  text-align: center;
+  margin-left: 100px;
+  color: red;
+  width: 20%;
+  margin-top: 20px;
+}
+.Testimonials #container .row .image-container img {
+  opacity: 0.4;
+}
+.Testimonials #container .row #two {
+  border-radius: 25%;
+  text-align: center;
+  margin-left: 180px;
+  margin-top: 30px;
+}
+.Testimonials #container .row #one {
+  color: rgb(0, 0, 0);
+  margin-left: 200px;
+  margin-top: 125px;
+  font-size: 15px;
+}
+
+.Our-gallery {
+  margin-top: 100px;
+}
+.Our-gallery #container h2 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  align-items: center;
+}
+.Our-gallery #container .row img {
+  margin-top: 20px;
+  width: 100%;
+  height: 300px;
+}
+.Our-gallery #container2 .row img {
+  margin-top: 20px;
+  width: 100%;
+  height: 300px;
+}/*# sourceMappingURL=style.css.map */

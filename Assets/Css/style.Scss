@@ -1,0 +1,119 @@
+.Testimonials {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    #container {
+
+        h2 {
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+            align-items: center;
+            margin-bottom: 50px;
+        }
+
+        .row {
+
+            
+            .image-container{
+            background: rgba(231, 83, 23, 0.4);
+            overflow: hidden;
+            
+            h4 {
+
+                position: absolute;
+                font-size: 15px;
+                text-align: center;
+                color: rgb(255, 255, 255);
+                top: 500px;
+                margin-left: 100px;
+            }
+
+
+            p {
+                font-size: 15px;
+            
+                width: 20%;
+                top: 200px;
+                text-align: center;
+                margin-top: 80px;
+                margin-left: 150px;
+                color: rgb(0, 0, 0);
+
+            }
+
+            hr{
+                text-align: center;
+                
+            }
+
+            img{opacity: 0.4;
+
+            }
+        }
+
+
+            #two {
+                border-radius: 25%;
+                text-align: center;
+                margin-left: 180px;
+                margin-top: 30px;
+            }
+
+            #one {
+                color: rgb(0, 0, 0);
+                margin-left: 200px;
+                margin-top: 140px;
+                font-size: 15px;
+            }
+
+
+
+
+
+        }
+
+    }
+}
+
+.Our-gallery {
+    margin-top: 100px;
+
+    #container {
+        h2 {
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+            align-items: center;
+        }
+
+        .row {
+            img {
+                margin-top: 20px;
+                width: 100%;
+                height: 300px;
+
+
+            }
+
+        }
+    }
+
+    #container2 {
+        .row {
+            img {
+                margin-top: 20px;
+                width: 100%;
+                height: 300px;
+
+
+            }
+
+        }
+
+    }
+
+
+
+
+
+
+}
